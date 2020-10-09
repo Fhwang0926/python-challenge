@@ -50,4 +50,4 @@ pip install -r requirements.txt
 
 python freeze > requirements.txt
 
-# Detail Write UP : https://fhwang.tistory.com/category/Wargame
+# Detail Write UP : https://fhwang.tistory.com/category/War%20Game/PythonChallenge
